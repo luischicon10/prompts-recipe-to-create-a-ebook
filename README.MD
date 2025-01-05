@@ -1,16 +1,4 @@
 <p align="center">
-    <https://github.com/luischicon10/prompts-recipe-to-create-a-ebook/blob/main/Leonardo_Phoenix_09_Crie_uma_imagem_sobre_alimentao_sadavel_e_3.jpg>
-</p>
-
-
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
-
--------
-
-
-<p align="center">
 <img 
     src="./assets/cover.png"
     width="400"  
